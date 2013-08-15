@@ -1,4 +1,4 @@
-zinfoset
-========
+zinfotools
+==========
 
-zyl910's info tool set.
+zyl910's info tools.
